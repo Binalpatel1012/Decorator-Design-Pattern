@@ -1,5 +1,4 @@
-﻿using DecoratorDesignPattern;
-using DecoratorDesignPattern.Components;
+﻿using DecoratorDesignPattern.Components;
 using DecoratorDesignPattern.Interfaces;
 
 namespace DecoratorDesignPattern
