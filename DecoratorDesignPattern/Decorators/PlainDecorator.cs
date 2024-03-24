@@ -9,7 +9,6 @@ namespace DecoratorDesignPattern
         {
         }
 
-        
         public override string GetText()
         {
             string String = "Custom String: "; 
