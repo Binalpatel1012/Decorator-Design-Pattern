@@ -2,7 +2,7 @@
 using DecoratorDesignPattern.Components;
 using DecoratorDesignPattern.Interfaces;
 
-namespace YourNamespace
+namespace DecoratorDesignPattern
 {
     class Program
     {
